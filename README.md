@@ -1,2 +1,2 @@
 # CssFlipImageAnimation
-An animation hover effect with Css3
+An animation hover effect built with html and css.
